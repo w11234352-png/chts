@@ -3,3 +3,5 @@
 https://t.me/hongtutog
 <img width="2159" height="1210" alt="image" src="https://github.com/user-attachments/assets/912ee13c-1555-4d4d-ad35-421d74477ac4" />
 
+<img width="915" height="1159" alt="image" src="https://github.com/user-attachments/assets/1c9b5b7a-dd79-4de4-a659-d3818c6c0eb5" />
+
