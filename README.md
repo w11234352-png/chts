@@ -29,5 +29,6 @@ telegram-commerce
 https://t.me/hongtutog
 <img width="2159" height="1210" alt="image" src="https://github.com/user-attachments/assets/912ee13c-1555-4d4d-ad35-421d74477ac4" />
 
-<img width="915" height="1159" alt="image" src="https://github.com/user-attachments/assets/1c9b5b7a-dd79-4de4-a659-d3818c6c0eb5" />
+
+<img width="1530" height="1115" alt="image" src="https://github.com/user-attachments/assets/f5ea85d4-dcc8-4cbe-a8e4-d6565f1069e2" />
 
