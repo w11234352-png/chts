@@ -1,6 +1,6 @@
 # chts
 # Chat + Escrow + Community + Auction Platform
-
+# Open-source Flutter/NestJS C2C marketplace with real-time chat, community, escrow, auctions, Docker and white-label deployment.
 Open-source marketplace system for C2C, social commerce and service transactions.
 
 [Online Demo] [Docker Deployment] [Commercial Customization] [Telegram]
@@ -27,6 +27,10 @@ ecommerce
 dispute-resolution
 telegram-commerce
 https://t.me/hongtutog
+
+flutter, dart, nestjs, typescript, postgresql, websocket, realtime-chat,
+chat-application, marketplace, c2c, ecommerce, social-commerce, escrow,
+auction, community-platform, self-hosted, white-label, docker, admin-dashboard
 <img width="2159" height="1210" alt="image" src="https://github.com/user-attachments/assets/912ee13c-1555-4d4d-ad35-421d74477ac4" />
 
 
