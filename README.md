@@ -1,5 +1,5 @@
 # chts
-# Chat + Escrow + Community + Auction Platform
+# ⭐️⭐️⭐️Chat + Escrow + Community + Auction Platform
 # Open-source Flutter/NestJS C2C marketplace with real-time chat, community, escrow, auctions, Docker and white-label deployment.
 Open-source marketplace system for C2C, social commerce and service transactions.
 
